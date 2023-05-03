@@ -15,6 +15,16 @@ Additionally, you need to set the following environment variables with your API 
 export OPENAI_API_KEY=your_openai_api_key
 export SERPAPI_API_KEY=your_serpapi_api_key
 ```
+
+## Getting Started
+
+1. Clone the project
+2. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
 ## Usage
 
 1. Open a terminal and navigate to the directory where the script is located.
